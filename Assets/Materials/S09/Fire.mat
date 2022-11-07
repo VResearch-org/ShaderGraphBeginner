@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Fire
+  m_Shader: {fileID: -6465566751694194690, guid: 56f65afbce6890748ab52026d504d00a, type: 3}
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _Fire_26253390c3414506b0805ff6e776031f_FireShape_1573881011:
+        m_Texture: {fileID: 2800000, guid: 00baff31162c68247afdf3e44c597195, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Fire_2b8999089d574bde8d580bf8592ba52b_FireShape_1573881011:
+        m_Texture: {fileID: 2800000, guid: 45e7c531a7c07a74eba98d4eaae8762f, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_453c58e9284a49008331805c32aeb002_Texture_1:
+        m_Texture: {fileID: 2800000, guid: 3946839698ed02746904d6df31dbf1c1, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_a26788efde644539bd9a227ab1b52eb5_Texture_1:
+        m_Texture: {fileID: 2800000, guid: 3946839698ed02746904d6df31dbf1c1, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_ea97f11b345e469bbb02b3815be85599_Texture_1:
+        m_Texture: {fileID: 2800000, guid: 00baff31162c68247afdf3e44c597195, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_eec17d58823346e8aa98d95bbb468d45_Texture_1:
+        m_Texture: {fileID: 2800000, guid: 3946839698ed02746904d6df31dbf1c1, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _BUILTIN_QueueControl: 0
+    - _BUILTIN_QueueOffset: 0
+    - _SpeedMultiplier: -0.4
+    m_Colors:
+    - _BottomColor: {r: 2.996078, g: 0.0872628, b: 0, a: 0}
+    - _ColorTop: {r: 2.996078, g: 1.505882, b: 0, a: 0}
+    - _Tiling: {r: 1, g: 0.36, b: 0, a: 0}
+  m_BuildTextureStacks: []
+--- !u!114 &8040720515398694369
+MonoBehaviour:
+  m_ObjectHideFlags: 11
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 639247ca83abc874e893eb93af2b5e44, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 0
